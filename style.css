@@ -1,0 +1,30 @@
+#A{
+    background-color: #FF8C00;
+    height: 500px;
+    width: 500px;
+}
+
+#B{
+    background-color: #7CFC00;
+    height: 50%;
+    width: 50%;
+}
+
+#paragrado{
+    color: whitesmoke; background-color: red;
+    font-size: 25px;
+    font-family: monospace;
+    font-weight: 800;
+}
+
+#C{
+    width: 50%;
+    height: 50vh;
+    background-color: rgb(81, 145, 241);
+}
+
+#D{
+    width: 75vw;
+    height: 50%;
+    background-color: rgb(248, 60, 60);
+}
